@@ -1,13 +1,4 @@
-### Hi there 👋
-```
- _________
-< Welcome >
- ---------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+
 ```
 <!--
 **minazukie/minazukie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
